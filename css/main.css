@@ -13,7 +13,7 @@ body {
 .full-width {
     float: left;
     margin: 0 auto;
-    width: 1366px;
+    width: 1275px;
 }
 
 .half-width {
@@ -108,6 +108,7 @@ nav ul li a {
     background-color: #f9ceb7;
     padding: 150px 0px 150px 75px;
     text-align: center;
+    width: 1290px;
 }
 
 #work img {
@@ -135,7 +136,7 @@ nav ul li a {
 #contact {
     background-color: #ebebeb;
     padding: 150px 0px 150px 75px;
-    width: 1366px;
+    width: 1290px;
 }
 
 #contact .full-width {
